@@ -169,3 +169,6 @@ row{
 .p-2 {
     padding: 0.5rem!important;
 }
+#items{
+    cursor: pointer;
+}
